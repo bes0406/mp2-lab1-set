@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="bitfield">
+</Property><Property Name="Solution File" Value="E:\DOC\Лаба\mp2-lab1-set\sln\vc9\bitfield.sln">
+</Property><Property Name="Date" Value="8 октября 2015 г.">
+</Property><Property Name="Time" Value="21:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="bitfield.sln" Description="File successfully backed up as E:\DOC\Лаба\mp2-lab1-set\sln\vc9\bitfield.sln.old">
+</Event><Event ErrorLevel="0" Project="gtest" Source="gtest\gtest.vcproj" Description="Converting project file 'E:\DOC\Лаба\mp2-lab1-set\sln\vc9\gtest\gtest.vcproj'.">
+</Event><Event ErrorLevel="1" Project="gtest" Source="gtest\gtest.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="gtest" Source="gtest\gtest.vcproj" Description="Done converting to new project file 'E:\DOC\Лаба\mp2-lab1-set\sln\vc9\gtest\gtest.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="gtest" Source="gtest\gtest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="bitfield" Source="bitfield\bitfield.vcproj" Description="Converting project file 'E:\DOC\Лаба\mp2-lab1-set\sln\vc9\bitfield\bitfield.vcproj'.">
+</Event><Event ErrorLevel="1" Project="bitfield" Source="bitfield\bitfield.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="bitfield" Source="bitfield\bitfield.vcproj" Description="Done converting to new project file 'E:\DOC\Лаба\mp2-lab1-set\sln\vc9\bitfield\bitfield.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="bitfield" Source="bitfield\bitfield.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="test_bitfield" Source="test_bitfield\test_bitfield.vcproj" Description="Converting project file 'E:\DOC\Лаба\mp2-lab1-set\sln\vc9\test_bitfield\test_bitfield.vcproj'.">
+</Event><Event ErrorLevel="1" Project="test_bitfield" Source="test_bitfield\test_bitfield.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="test_bitfield" Source="test_bitfield\test_bitfield.vcproj" Description="Attribute 'CopyLocalDependencies' of 'ProjectReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="test_bitfield" Source="test_bitfield\test_bitfield.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'ProjectReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="test_bitfield" Source="test_bitfield\test_bitfield.vcproj" Description="Attribute 'CopyLocalDependencies' of 'ProjectReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="test_bitfield" Source="test_bitfield\test_bitfield.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'ProjectReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="test_bitfield" Source="test_bitfield\test_bitfield.vcproj" Description="Done converting to new project file 'E:\DOC\Лаба\mp2-lab1-set\sln\vc9\test_bitfield\test_bitfield.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="test_bitfield" Source="test_bitfield\test_bitfield.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sample_prime_numbers" Source="sample_prime_numbers\sample_prime_numbers.vcproj" Description="Converting project file 'E:\DOC\Лаба\mp2-lab1-set\sln\vc9\sample_prime_numbers\sample_prime_numbers.vcproj'.">
+</Event><Event ErrorLevel="1" Project="sample_prime_numbers" Source="sample_prime_numbers\sample_prime_numbers.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="sample_prime_numbers" Source="sample_prime_numbers\sample_prime_numbers.vcproj" Description="Attribute 'CopyLocalDependencies' of 'ProjectReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="sample_prime_numbers" Source="sample_prime_numbers\sample_prime_numbers.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'ProjectReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="sample_prime_numbers" Source="sample_prime_numbers\sample_prime_numbers.vcproj" Description="Done converting to new project file 'E:\DOC\Лаба\mp2-lab1-set\sln\vc9\sample_prime_numbers\sample_prime_numbers.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="sample_prime_numbers" Source="sample_prime_numbers\sample_prime_numbers.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="bitfield.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="bitfield.sln" Description="Converted">
+</Event></UpgradeLog>
